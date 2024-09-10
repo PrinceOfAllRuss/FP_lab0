@@ -5,6 +5,7 @@
 - Также существует ClojureScript, который легко компилируется в JavaScript и запускается в браузере. Он может взаимодействовать с библиотеками JavaScript. Это позволяет использовать один и тот же язык для клиентской и серверной части. На четвертой лабораторной планируется написать клиент-серверное приложение, так что тот факт, что Clojure можно использовать и там, и там – интересно и отчасти удобно.
 
 **Компилятор**: JVM  
+**Форматер**: https://github.com/weavejester/cljfmt  
 **Линтер**: <https://github.com/clj-kondo/clj-kondo>  
 **Тесты**: kaocha, <https://github.com/lambdaisland/kaocha>  
 **Сборка**: Leiningen, <https://github.com/technomancy/leiningen>  
